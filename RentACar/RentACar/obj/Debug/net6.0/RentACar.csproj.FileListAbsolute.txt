@@ -1,0 +1,100 @@
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.AssemblyReference.cache
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.AssemblyInfoInputs.cache
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.AssemblyInfo.cs
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.RazorAssemblyInfo.cache
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.RazorAssemblyInfo.cs
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\appsettings.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\RentACar.staticwebassets.runtime.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\RentACar.exe
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\RentACar.deps.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\RentACar.runtimeconfig.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\RentACar.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\RentACar.pdb
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\Snappier.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.RentACar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.build.RentACar.props
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RentACar.props
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RentACar.props
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\scopedcss\bundle\RentACar.styles.css
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\scopedcss\projectbundle\RentACar.bundle.scp.css
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.CopyComplete
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\refint\RentACar.dll
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.pdb
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\RentACar.genruntimeconfig.cache
+C:\Users\Lucija\Desktop\MongoDB\RentACar\RentACar\obj\Debug\net6.0\ref\RentACar.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\appsettings.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\RentACar.staticwebassets.runtime.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\RentACar.exe
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\RentACar.deps.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\RentACar.runtimeconfig.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\RentACar.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\RentACar.pdb
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\DnsClient.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\Snappier.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.AssemblyReference.cache
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.AssemblyInfoInputs.cache
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.AssemblyInfo.cs
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.RazorAssemblyInfo.cache
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.RazorAssemblyInfo.cs
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.RentACar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.build.RentACar.props
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RentACar.props
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RentACar.props
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\scopedcss\bundle\RentACar.styles.css
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\scopedcss\projectbundle\RentACar.bundle.scp.css
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.CopyComplete
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\refint\RentACar.dll
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.pdb
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\RentACar.genruntimeconfig.cache
+C:\Users\vasic\Downloads\RentACar 6\RentACar\RentACar\obj\Debug\net6.0\ref\RentACar.dll
